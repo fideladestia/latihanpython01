@@ -4,4 +4,4 @@
 <p> contoh nama=input("siapa nama kamu")
 
 ### contoh gambar output data
-![gambar1](ss/ssoutput.png)
+![gambar1](ss/ssoutput.PNG)
